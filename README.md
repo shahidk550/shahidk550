@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://github.com/shahidk550/literate-adventure/blob/main/meditating%20cyber.gif" width="100"/>
 </div>
 
 <div id="badges" align="center">
