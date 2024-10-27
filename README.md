@@ -18,7 +18,7 @@
 <img src="https://github.com/shahidk550/literate-adventure/blob/main/giphy.webp" width="400px" height="300px">
 </div>
 
---------------------------------------------------------------------------------------------------------------------------------
+----
 ### 👨‍💻 About Me :
   - Im a product manager working in the UK Government.
   - Currently undertaking a cybersecurity bootcamp.
