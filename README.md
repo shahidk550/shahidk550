@@ -19,6 +19,13 @@
 </div>
 
 --------------------------------------------------------------------------------------------------------------------------------
+### 👨‍💻 About Me :
+  - Im a product manager working in the Uk Government.
+  - Currently undertaking a cybersecurity bootcamp.
+  - Im interested in the threat detection and protecting businesses and users from cyber fraud and cyber attacks.
+
+---------------------------------------------------------------------------------------------------------------------------------
+     
 <div>   
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
