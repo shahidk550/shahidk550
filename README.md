@@ -20,9 +20,9 @@
 
 ----
 ### 👨‍💻 About Me :
-  - Im a product manager working in the UK Government.
-  - Currently undertaking a cybersecurity bootcamp.
-  - Im interested in the threat detection and protecting businesses and users from cyber fraud and cyber attacks.
+  - Im a product and delivery manager working in the UK Government.
+  - Recently completed cybersecurity bootcamp.
+  - Im interested in the solving complex business problems and creating end user value.
   - Get in touch [![Linkedin Badge](https://img.shields.io/badge/-Shahid-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shahid-khan-44822b249/)
 
 ---
